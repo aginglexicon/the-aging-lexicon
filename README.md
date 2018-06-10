@@ -1,9 +1,41 @@
 ## The Aging Lexicon workshop resources 
 
-### Corpora
+### Announcements
+Please provide the commonly used name (and acronym) for the resource, together with a link, reference and short description (language, nature of participants, size of the data). If you are aware of any new initiatives or work in preparation that might be of interest, you can include it here.
 
+### Corpora
+- [Talk Bank](https://talkbank.org/): The goal of TalkBank is to foster fundamental research in the study of human communication. It contains a number of diverse speech and text corpora. Some are public and some require contacting TalkBank for permission.
 
 ### Norms
+#### Subtitle norms
+- [SUBTLEX-NL](http://crr.ugent.be/programs-data/subtitle-frequencies/subtlex-nl): frequencies based on Dutch subtitles
+- [SUBTLEX-US](https://www.ugent.be/pp/experimentele-psychologie/en/research/documents/subtlexus/overview.htm): frequencies based on American English subtitles:
+- [SUBTLEX-CH](http://crr.ugent.be/programs-data/subtitle-frequencies/subtlex-ch): frequencies based on Chinese subtitles:
+- [SUBTLEX-ESP](http://crr.ugent.be/archives/679): frequencies based on Spanish subtitles
+- [SUBTLEX-DE](http://crr.ugent.be/archives/534): frequencies based on German subtitles
+- [SUBTLEX-GR](http://www.bcbl.eu/databases/subtlex-gr): frequencies based on Greek subtitles (Dimitropoulou et al., 2010)
+- [SUBTLEX-UK](http://crr.ugent.be/archives/1423): frequencies based on British English subtitles
+- [SUBTLEX-PL](http://crr.ugent.be/programs-data/subtitle-frequencies/subtlex-pl): frequencies based on Polish subtitles
+
+
+### Lexical norms
+- [Age-of-acquisition (AoA) norms for over 50 thousand English words](http://crr.ugent.be/archives/806)
+- [Affective ratings for nearly 14 thousand English words](http://crr.ugent.be/archives/1003)
+- [MacArthur-Bates Communicative Development Inventories](https://langcog.stanford.edu/papers_new/frank-2016-jcl.pdf)
+
+### Word association norms
+- [University of South Florida (USF) Free Association Norms](http://w3.usf.edu/FreeAssociation/)
+
+### Concept and category norms
+- [Leuven concept data](https://ppw.kuleuven.be/apps/concat/datasets/brm_concepts/): norms for over 400 concrete nouns including typicality, similarity within particular domains, category naming data, exemplar generation data, frequency, AoA, etc.
+
+### Semantic vectors: 
+- [SNAUT](http://meshugga.ugent.be/snaut/): Interface and access to semantic vectors for Dutch and English based on word2vec
+- [Latent Semantic Analysis](http://lsa.colorado.edu/): Interface to obtain semantic similarity for words and documents
+
+### Repositories
+- [ESPAL](bcbl.eu/databases/espal/): phonology, part-of-speech, subtitle frequencies, etc. in Castillian and Latin American Spanish
+- Erin Buchanan's [word norms](http://www.wordnorms.com/):  Concept features, LSA and BEAGLE similarity estimates
 
 ### Behavioral data
 #### Lexicon Projects
@@ -21,15 +53,34 @@
 #### Eye-tracking
 - [Provo Corpus](https://osf.io/sjefs/): A Large Eye-Tracking Corpus with Predictability Norms
 - [Ghent Eye-Tracking Corpus (GECO)](http://expsy.ugent.be/downloads/geco/): Includes bilingual data
+- [Eye tracking in young and older adults](http://read.psych.uni-potsdam.de/pmr2/index.php?option=com_content&view=article&id=45:risse-a-kliegl-2011-psycholaging-adult-age-differences-in-the-perceptual-span-during-reading&catid=10:publications&Itemid=14)
 
 
 ### Imaging data
+- [CMU fMRI dataset](http://www.cs.cmu.edu/afs/cs/project/theo-73/www/science2008/data.html): 60 concrete concepts. in 12 categories, collected while nine English speakers were presented with 60 line drawings of objects with text labels and were instructed to think of the same properties of the stimulus object consistently during each presentation. For each concept there are 6 instances of ~20k neural activity features (brain blood oxygenation levels). 
+
+- [Trento EEG data-set for 60 concepts](http://clic.cimec.unitn.it/brian/compNeuroWSnaacl10/): concepts in 2 categories (work tools and land mammals), collected while seven Italian speakers were silently naming photographic images that represent these concepts. For each concept there are 6 instances of ~15k neural activity features (spectral power in voltage signals). 
 
 ### Tools
-Demos and tools
+#### Statistical packages
+##### R
+- [tm package](https://cran.r-project.org/web/packages/tm/vignettes/tm.pdf): Text Mining in R
+- [NetworkToolBox](https://github.com/AlexChristensen/NetworkToolbox) an R package to analyze brain, cognitive, and psychometric networks
+
+##### Python
+- [spaCy](https://spacy.io): Industrial-Strength Natural Language Processing in Python
+- [SemNetCleaner](https://github.com/AlexChristensen/SemNetCleaner): automated R package to clean semantic fluency data
+
+
+
+
+### Citizen-science studies
 
 
 ### Other
+- Executive control/Inhibition measures from an individual differences study with young and old adults: https://osf.io/rygex/ 
+- Meta-analysis of aging effects on inhibition tasks [data and analysis script): https://osf.io/fthku/ 
+- [Nun Study](https://en.wikipedia.org/wiki/Nun_Study)
 
 
 ### References
@@ -37,38 +88,3 @@ Overview and commentatory papers, and references to the resources
 
 
 
-You can use the [editor on GitHub](https://github.com/aginglexicon/resources/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aginglexicon/resources/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
