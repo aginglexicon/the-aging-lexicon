@@ -1,0 +1,2 @@
+# resources
+Lexical knowledge resources
