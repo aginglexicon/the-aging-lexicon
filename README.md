@@ -5,6 +5,7 @@ Please provide the commonly used name (and acronym) for the resource, together w
 
 ### Corpora
 - [Talk Bank](https://talkbank.org/): The goal of TalkBank is to foster fundamental research in the study of human communication. It contains a number of diverse speech and text corpora. Some are public and some require contacting TalkBank for permission.
+- [BYU corpora]: Collection of free and commercial corpora by Mark Davies in English, Spanish and Portuguese 
 
 ### Norms
 #### Subtitle norms
