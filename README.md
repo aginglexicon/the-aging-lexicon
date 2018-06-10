@@ -1,4 +1,41 @@
-## Welcome to GitHub Pages
+## The Aging Lexicon workshop resources 
+
+### Corpora
+
+
+### Norms
+
+### Behavioral data
+#### Lexicon Projects
+- [English Lexicon Project (ELP)](http://elexicon.wustl.edu/)
+- [Dutch Lexicon Project (DLP)](http://crr.ugent.be/programs-data/lexicon-projects)
+- [Dutch Lexicon Project 2 (DLP2)](http://crr.ugent.be/programs-data/lexicon-projects)
+- [BALDEY (Auditory Lexical Decision in Dutch)](http://mirjamernestus.nl/Ernestus/Baldey/index.php)
+- [French Lexicon Project (FLP)](https://sites.google.com/site/frenchlexicon/)
+- [British Lexicon Project (BLP)](http://crr.ugent.be/programs-data/lexicon-projects)
+
+#### Priming studies
+- [Semantic Priming Project](http://spp.montana.edu/about.aspx)
+- [Form Priming Project (FPP)](http://www.adelmanlab.org/fpp/)
+
+#### Eye-tracking
+- [Provo Corpus](https://osf.io/sjefs/): A Large Eye-Tracking Corpus with Predictability Norms
+- [Ghent Eye-Tracking Corpus (GECO)](http://expsy.ugent.be/downloads/geco/): Includes bilingual data
+
+
+### Imaging data
+
+### Tools
+Demos and tools
+
+
+### Other
+
+
+### References
+Overview and commentatory papers, and references to the resources
+
+
 
 You can use the [editor on GitHub](https://github.com/aginglexicon/resources/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
