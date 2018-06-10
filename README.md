@@ -78,7 +78,8 @@ Please provide the commonly used name (and acronym) for the resource, together w
 
 
 
-### Citizen-science studies
+### Citizen-science studies and crowd-source platforms
+- [Prolific Academic](https://prolific.ac/): research-focussed crowd-sourcing platform
 
 
 ### Other
