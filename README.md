@@ -26,7 +26,8 @@ Please provide the commonly used name (and acronym) for the resource, together w
 - [MacArthur-Bates Communicative Development Inventories](https://langcog.stanford.edu/papers_new/frank-2016-jcl.pdf)
 
 ### Word association norms
-- [University of South Florida (USF) Free Association Norms](http://w3.usf.edu/FreeAssociation/)
+- [University of South Florida (USF) Free Association Norms](http://w3.usf.edu/FreeAssociation/): English word association norms for approx. 5,000 cues.
+- [Small World of Words](https://smallworldofwords.org/project/research/): Word association norms for over 12,000 cues in English and Dutch.
 
 ### Concept and category norms
 - [Leuven concept data](https://ppw.kuleuven.be/apps/concat/datasets/brm_concepts/): norms for over 400 concrete nouns including typicality, similarity within particular domains, category naming data, exemplar generation data, frequency, AoA, etc.
