@@ -1,11 +1,12 @@
 ## The Aging Lexicon workshop resources 
+https://aginglexicon.github.io/resources/
 
 ### Announcements
 Please provide the commonly used name (and acronym) for the resource, together with a link, reference and short description (language, nature of participants, size of the data). If you are aware of any new initiatives or work in preparation that might be of interest, you can include it here.
 
 ### Corpora
 - [Talk Bank](https://talkbank.org/): The goal of TalkBank is to foster fundamental research in the study of human communication. It contains a number of diverse speech and text corpora. Some are public and some require contacting TalkBank for permission.
-- [BYU corpora]: Collection of free and commercial corpora by Mark Davies in English, Spanish and Portuguese 
+- [BYU corpora](https://corpus.byu.edu/): Collection of free and commercial corpora by Mark Davies in English, Spanish and Portuguese 
 
 ### Norms
 #### Subtitle norms
@@ -81,7 +82,7 @@ Please provide the commonly used name (and acronym) for the resource, together w
 
 ### Other
 - Executive control/Inhibition measures from an individual differences study with young and old adults: https://osf.io/rygex/ 
-- Meta-analysis of aging effects on inhibition tasks [data and analysis script): https://osf.io/fthku/ 
+- Meta-analysis of aging effects on inhibition tasks [data and analysis script)(https://osf.io/fthku/)
 - [Nun Study](https://en.wikipedia.org/wiki/Nun_Study)
 
 
