@@ -1,6 +1,6 @@
 ## The Aging Lexicon workshop resources 
 
-The following resources were compiled by participants of the "Symposium on the Aging Lexicon" that took place in Basel, June 7-9, 2018 [website](https://psychologie.unibas.ch/de/fakultaet/abteilungen/cognitive-and-decision-sciences/the-aging-lexicon/). 
+The following resources were compiled by participants of the "Symposium on the Aging Lexicon" that took place in Basel, June 7-9, 2018 > [Aging lexicon website](https://psychologie.unibas.ch/de/fakultaet/abteilungen/cognitive-and-decision-sciences/the-aging-lexicon/). 
 
 The listed resources are aimed to help future work aiming to understand adult age differences in the development of lexical and semantic knowledge.  
 
