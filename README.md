@@ -1,7 +1,8 @@
 ## The Aging Lexicon workshop resources 
-https://aginglexicon.github.io/resources/
 
-The following resources were compiled by participants in the "Symposium on the Aging Lexicon" that took place in Basel, June 7-9, 2018 (https://psychologie.unibas.ch/de/fakultaet/abteilungen/cognitive-and-decision-sciences/the-aging-lexicon/). The listed resources are aimed to help future work aiming to understand adult age differences in the development of lexical and semantic knowledge. If you would like to provide additional links please contact dirk.wulff@unibas.ch.  
+The following resources were compiled by participants of the "Symposium on the Aging Lexicon" that took place in Basel, June 7-9, 2018 (https://psychologie.unibas.ch/de/fakultaet/abteilungen/cognitive-and-decision-sciences/the-aging-lexicon/). 
+
+The listed resources are aimed to help future work aiming to understand adult age differences in the development of lexical and semantic knowledge. If you would like to provide additional links or materials please contact dirk.wulff@unibas.ch.  
 
 ### Corpora
 - [Talk Bank](https://talkbank.org/): The goal of TalkBank is to foster fundamental research in the study of human communication. It contains a number of diverse speech and text corpora. Some are public and some require contacting TalkBank for permission.
@@ -17,7 +18,6 @@ The following resources were compiled by participants in the "Symposium on the A
 - [SUBTLEX-GR](http://www.bcbl.eu/databases/subtlex-gr): frequencies based on Greek subtitles (Dimitropoulou et al., 2010)
 - [SUBTLEX-UK](http://crr.ugent.be/archives/1423): frequencies based on British English subtitles
 - [SUBTLEX-PL](http://crr.ugent.be/programs-data/subtitle-frequencies/subtlex-pl): frequencies based on Polish subtitles
-
 
 ### Lexical norms
 - [Age-of-acquisition (AoA) norms for over 50 thousand English words](http://crr.ugent.be/archives/806)
@@ -73,19 +73,13 @@ The following resources were compiled by participants in the "Symposium on the A
 ##### Python
 - [spaCy](https://spacy.io): Industrial-Strength Natural Language Processing in Python
 
-
-
-
-
 ### Citizen-science studies and crowd-source platforms
 - [Prolific Academic](https://prolific.ac/): research-focussed crowd-sourcing platform
-
 
 ### Other
 - Executive control/Inhibition measures from an individual differences study with young and old adults: https://osf.io/rygex/ 
 - Meta-analysis of aging effects on inhibition tasks [data and analysis script)(https://osf.io/fthku/)
 - [Nun Study](https://en.wikipedia.org/wiki/Nun_Study)
-
 
 ### References
 Overview and commentatory papers, and references to the resources
