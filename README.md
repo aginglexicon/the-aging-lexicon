@@ -1,8 +1,7 @@
 ## The Aging Lexicon workshop resources 
 https://aginglexicon.github.io/resources/
 
-### Announcements
-Please provide the commonly used name (and acronym) for the resource, together with a link, reference and short description (language, nature of participants, size of the data). If you are aware of any new initiatives or work in preparation that might be of interest, you can include it here.
+The following resources were compiled by participants in the "Symposium on the Aging Lexicon" that took place in Basel, June 7-9, 2018 (https://psychologie.unibas.ch/de/fakultaet/abteilungen/cognitive-and-decision-sciences/the-aging-lexicon/). The listed resources are aimed to help future work aiming to understand adult age differences in the development of lexical and semantic knowledge. If you would like to provide additional links please contact dirk.wulff@unibas.ch.  
 
 ### Corpora
 - [Talk Bank](https://talkbank.org/): The goal of TalkBank is to foster fundamental research in the study of human communication. It contains a number of diverse speech and text corpora. Some are public and some require contacting TalkBank for permission.
